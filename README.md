@@ -1,5 +1,5 @@
 # OneOS
-### Cool operating system written on scratch
+Cool operating system written on scratch
 
 OneOS - copy of unix-like systems written on scratch3
 
