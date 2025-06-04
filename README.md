@@ -22,7 +22,6 @@ Result: e~POTBH}qGK\
 pak
 - Package manager
 - Interacts with the internet
-- Downloads stuff
 
 --------------
 
