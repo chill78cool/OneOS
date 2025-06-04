@@ -3,6 +3,8 @@
 ### Recomendation:
 Use command 'tutorial' if u are newbie!
 
+--------------
+
 ### Fast summary about commands:
 pakstrap
 - Exists only on Preinstallation Environment
@@ -26,5 +28,3 @@ pak
 
 ### Screenshot:
 ![image](https://github.com/user-attachments/assets/19ecaa3f-8d6e-4fa8-8557-cac119009fdd)
-
---------------
