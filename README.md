@@ -16,8 +16,8 @@ help
 
 randomcharacters
 - Pulls up random characters
-Example: randomcharacters 12
-Result: e~POTBH}qGK\
+- Example: randomcharacters 12
+- Result: e~POTBH}qGK\
 
 pak
 - Package manager
