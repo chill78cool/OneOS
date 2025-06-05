@@ -1,4 +1,4 @@
-# OneOS - copy of unix-like systems written on scratch3
+# OneOS - copy of unix-like systems written on scratch 3
 
 ### Recomendation:
 Use command 'tutorial' if u are newbie!
