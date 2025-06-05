@@ -1,4 +1,4 @@
-# OneOS - copy of unix-like systems written on scratch 3
+# OneOS - copy of unix-like systems created on TurboWarp
 
 ### Recomendation:
 Use command 'tutorial' if u are newbie!
