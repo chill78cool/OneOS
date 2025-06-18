@@ -23,6 +23,9 @@ pak
 - Package manager
 - Interacts with the internet
 
+snake-game
+- Game
+
 ---
 
 ### Screenshot:
